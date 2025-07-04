@@ -20,7 +20,7 @@ Türkçe, İngilizce, Almanca, Fransızca gibi tüm diller arasında çeviri yap
 Kurulum:
 ---------
 1) Projeyi klonlayın:
-   git clone https://github.com/ebubekirbastama/lingox-php-translator.git
+   git clone https://github.com/ebubekirbastama/EBSlingox-php-translator.git
 
 2) `src/Translator.php` dosyasını projenize dahil edin.
 
